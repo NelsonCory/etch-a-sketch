@@ -4,6 +4,7 @@
 header{
     background-color: blanchedalmond;
 }
+
 #footer{
     background-color: rgb(196, 255, 204);
 }
@@ -13,8 +14,25 @@ header{
 }
 
 .sketchTile{
-    background-color: blue;
+    
     display:inline-block;
     width:30px;
     height:30px;
+}
+
+
+.blueTile{
+    background-color: blue;
+}
+
+.redTile{
+    background-color: red;
+}
+
+.blackTile{
+    background-color:black;
+}
+
+.whiteTile{
+    background-color:white;
 }
